@@ -44,8 +44,7 @@ To deploy the contract, use Remix or any other Ethereum development environment 
 
 The contract is deployed and verified at the following address:
 
-- **Verified Contract Address**: `0x01c7E7095eD33C8058f04057D7EA20c9F216b5D6`
-- **Verified Contract URL**: https://sepolia.etherscan.io/address/0x01c7E7095eD33C8058f04057D7EA20c9F216b5D6#code
+- **Verified Contract Address**: [0x01c7E7095eD33C8058f04057D7EA20c9F216b5D6](https://sepolia.etherscan.io/address/0x01c7E7095eD33C8058f04057D7EA20c9F216b5D6#code)
 
 ## Use Cases
 
