@@ -34,12 +34,6 @@ The constructor initializes the token with a name (`Game`), symbol (`GTE`), and 
 
 - **`safeMint(address to, uint256 value) public onlyAdmin`**: Allows the admin to mint new tokens to a specified address.
 
-## Usage
-
-### Deploying the Contract
-
-To deploy the contract, use Remix or any other Ethereum development environment that supports Solidity. Make sure to set the Solidity compiler version to `0.8.23`.
-
 ## Verified Contract Address
 
 The contract is deployed and verified at the following address:
@@ -57,12 +51,6 @@ The `GameT` token (`GTE`) can be used in a variety of applications, particularly
 3. **Staking and Governance**: `GameT` tokens can be used in a decentralized governance model where token holders can stake their tokens to participate in decision-making processes, such as voting on game development, changes in reward structures, or platform policies.
 
 4. **Tokenized Assets Marketplace**: `GTE` can be integrated into decentralized marketplaces where users can trade digital assets, such as NFTs, skins, or other collectibles, using `GTE` tokens as the primary currency.
-
-5. **Token Airdrop and Incentive Campaigns**: Game developers or platform owners can distribute `GTE` tokens through airdrops to promote their game or incentivize early adopters, rewarding them for joining and engaging with the platform.
-
-6. **Loyalty Programs**: `GameT` tokens can be used in loyalty programs, where users earn tokens for specific actions (like regular playtime, referrals, etc.) and redeem them for exclusive content or benefits.
-
-7. **Community Growth**: To incentivize community growth, `GTE` tokens can be given as rewards for contributing to community development activities like creating content, moderating forums, or organizing community events.
 
 ## License
 
