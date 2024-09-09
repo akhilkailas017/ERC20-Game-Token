@@ -10,7 +10,6 @@
 
 - **Token Name**: GameT
 - **Token Symbol**: GTE
-- **Total Supply**: 100 GTE (100 * 10^18 in wei)
 - **Decimals**: 18
 - **Standard**: ERC20
 - **License**: MIT
